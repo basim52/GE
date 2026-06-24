@@ -1,0 +1,6 @@
+{
+  "name": "TOONHUB",
+  "description": "A visually stunning character-figurine carousel featuring highly responsive 3D-styled animated slides and a modern layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
